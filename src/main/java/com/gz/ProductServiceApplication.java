@@ -4,7 +4,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
- * 商品服务启动类
+ * 商品服务启动
  */
 @SpringBootApplication
 public class ProductServiceApplication {
